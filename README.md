@@ -4,7 +4,7 @@ Repo for practice Coding Test
 # 💻 Coding Test Repository
 
 ## 📘 파일 작명 규칙
-> 난이도\_리뷰여부\_문제출처_번호_제목\_문제유형 
+> 날짜\_난이도\_리뷰여부\_문제출처_번호_제목\_문제유형 
 
 ```
 난이도
