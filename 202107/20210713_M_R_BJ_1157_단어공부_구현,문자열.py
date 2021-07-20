@@ -26,3 +26,5 @@ if same == 1:
 else :
     print(alpha)
 
+
+    
