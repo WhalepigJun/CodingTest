@@ -13,3 +13,5 @@ l = list(s) # 리스트로 변경
 l.sort(key=lambda x:(len(x), x))
 for i in l:
     print(i)
+
+    
