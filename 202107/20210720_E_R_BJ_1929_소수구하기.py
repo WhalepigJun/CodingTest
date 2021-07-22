@@ -5,7 +5,6 @@
 # 2부터 그 수가 아닌 제곱근까지 검사하는 것이 좀 더 빠르게 소수 검사를 할 수 있다.
 
 import sys
-import math
 
 m,n=map(int,sys.stdin.readline().split())
 
